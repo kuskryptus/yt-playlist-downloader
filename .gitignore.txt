@@ -1,0 +1,3 @@
+YTFast/
+YTSlow/
+venv/
